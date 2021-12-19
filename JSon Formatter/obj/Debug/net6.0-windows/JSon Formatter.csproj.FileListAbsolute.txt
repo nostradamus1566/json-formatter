@@ -1,0 +1,34 @@
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.exe
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.deps.json
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.runtimeconfig.json
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.dll
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\ref\JSon Formatter.dll
+C:\Users\Michael\source\repos\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.pdb
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon_Formatter.Form1.resources
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.AssemblyInfo.cs
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.dll
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\ref\JSon Formatter.dll
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.pdb
+C:\Users\Michael\source\repos\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.genruntimeconfig.cache
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.exe
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.deps.json
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.runtimeconfig.json
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.dll
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\ref\JSon Formatter.dll
+C:\Users\Michael\Desktop\JSon Formatter\bin\Debug\net6.0-windows\JSon Formatter.pdb
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon_Formatter.Form1.resources
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.AssemblyInfo.cs
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.dll
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\ref\JSon Formatter.dll
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.pdb
+C:\Users\Michael\Desktop\JSon Formatter\obj\Debug\net6.0-windows\JSon Formatter.genruntimeconfig.cache
